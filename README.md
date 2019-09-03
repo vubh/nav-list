@@ -23,6 +23,8 @@
 
 1. [Gradle全版本](http://services.gradle.org/distributions/)
 
+1. [git-for-windows](http://npm.taobao.org/mirrors/git-for-windows/)
+
 ## 设计收藏
 
 1. [谷歌涂鸦](https://www.google.com/doodles)
